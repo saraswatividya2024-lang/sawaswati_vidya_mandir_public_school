@@ -1,0 +1,861 @@
+{
+  "timestamp": "2026-11-01T14:52:59.320Z",
+  "profile": {
+    "id": 1,
+    "name": "Saraswati Vidya Mandir Public School, Semla",
+    "hindi_name": "Saraswati Vidya Mandir Public School, Semla",
+    "tagline": "Learning Today, Leading Tomorrow",
+    "motto": "Educate • Empower • Excel",
+    "sanskrit_motto": "Lead Us From Darkness To Light • Excellence Through Effort",
+    "registration_no": "2162/07",
+    "affiliation_info": "An English Medium Based on CBSE Pattern & Curriculum (NUR - X)",
+    "classes_offered": "Nursery to Class X",
+    "address": "Kathig, Jones",
+    "po": "Semla",
+    "district": "Dumka",
+    "state": "Jharkhand",
+    "pin_code": "835027",
+    "phone1": "9973100625",
+    "phone2": "9771547720",
+    "email": "saraswati.vidya@outlook.com",
+    "working_hours": "Monday to Saturday: 8:00 AM - 2:30 PM",
+    "logo_url": "/assets/aistudio/WhatsApp_Image_2026-10-22_at_8.49.07_PM_b4d40a9e.jpeg",
+    "banner_url": "/assets/aistudio/file_0000000031c48208a3739793d7c419fd_fc340555.png",
+    "admissions_open": 1,
+    "admission_session": "2026-2027",
+    "free_admission_note": "Free Admission Offered for Nursery to Class X"
+  },
+  "homeContent": {
+    "id": 1,
+    "hero_heading": "Welcome to Saraswati Vidya Mandir Public School",
+    "hero_subtitle": "Let Your Future Bright • A World Class Learning Environment in Semla, Dumka",
+    "about_intro": "Saraswati Vidya Mandir Public School, Semla is an esteemed English Medium institution providing value-based education based on CBSE pattern and curriculum from Nursery to Class X. Nestled in a serene and lush green campus at Kathig, Jones, Semla (Dumka, Jharkhand), our school nurtures intellectual curiosity, moral integrity, physical fitness, and creative spirit.",
+    "vision": "To be an exemplary center of academic excellence and holistic child development where traditional Indian values merge seamlessly with modern scientific education, producing enlightened and compassionate future citizens.",
+    "mission": "To empower every student through experiential learning, personalized teacher mentorship, competitive examination coaching, and comprehensive sports and cultural activities, ensuring that no deserving child is deprived of quality education.",
+    "history": "Founded under Registration No. 2162/07 with the blessings of Maa Saraswati, the school was established to bring top-tier English Medium schooling to the children of Semla and Dumka district. Over the years, SVMPS has grown into a beacon of educational discipline, cultural vibrancy, and academic distinction.",
+    "philosophy": "Rooted in the eternal wisdom of \"Lead Us From Darkness To Light\" and \"Success is achieved through persistent hard work, not merely by wishing\", we believe that every child holds infinite potential.",
+    "principal_name": "Sri D. K. Sharma",
+    "principal_designation": "Principal & Educational Director",
+    "principal_message": "Dear Parents, Guardians, and Beloved Students, It gives me profound joy to welcome you to Saraswati Vidya Mandir Public School, Semla. Our institution is not merely a place of textbooks and exams; it is a sacred temple of learning where young minds are sculpted with wisdom, character, and self-confidence. With our dedicated faculty, state-of-the-art facilities, and personalized care, we prepare our students to excel in national olympiads, board examinations, and life at large. We welcome you to join our SVMPS family.",
+    "principal_photo_url": "/assets/aistudio/WhatsApp_Image_2026-10-22_at_8.49.07_PM_b4d40a9e.jpeg"
+  },
+  "facilities": [
+    {
+      "id": "campus",
+      "title": "Lush Green Campus",
+      "description": "Expansive, peaceful, eco-friendly campus with vibrant murals and clean open grounds conducive to focused learning.",
+      "icon_name": "Trees",
+      "is_visible": 1,
+      "display_order": 1
+    },
+    {
+      "id": "faculty",
+      "title": "Expert Teacher Faculty",
+      "description": "Highly qualified, experienced, and compassionate teachers delivering child-centric CBSE curriculum instructions.",
+      "icon_name": "GraduationCap",
+      "is_visible": 1,
+      "display_order": 2
+    },
+    {
+      "id": "sports",
+      "title": "Sports & Games Grounds",
+      "description": "Dedicated football pitch, cricket nets, volleyball, badminton, and specialized athletic training.",
+      "icon_name": "Trophy",
+      "is_visible": 1,
+      "display_order": 3
+    },
+    {
+      "id": "cocurricular",
+      "title": "Co-Curricular & Arts",
+      "description": "Music, dance, debate, drama, art & craft, and celebration of national and cultural festivals.",
+      "icon_name": "Palette",
+      "is_visible": 1,
+      "display_order": 4
+    },
+    {
+      "id": "olympiad",
+      "title": "Olympiad & Competitive Coaching",
+      "description": "Special guidance for International and National Science, Math, and English Olympiads alongside regular studies.",
+      "icon_name": "Award",
+      "is_visible": 1,
+      "display_order": 5
+    },
+    {
+      "id": "computer",
+      "title": "Modern Computer Lab",
+      "description": "Hands-on digital education, basic coding, internet research, and multimedia educational tools.",
+      "icon_name": "Monitor",
+      "is_visible": 1,
+      "display_order": 6
+    },
+    {
+      "id": "hostel_bus",
+      "title": "Hostel & Bus Facilities",
+      "description": "Safe school bus transport covering Semla, Kathig, Dumka and surrounding villages, plus secure hostel arrangements.",
+      "icon_name": "Bus",
+      "is_visible": 1,
+      "display_order": 7
+    },
+    {
+      "id": "safety",
+      "title": "Safe & Inspiring Environment",
+      "description": "Secure boundary walls, 24/7 staff supervision, clean purified drinking water, and hygienic facilities.",
+      "icon_name": "ShieldCheck",
+      "is_visible": 1,
+      "display_order": 8
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Sri Ramesh Kumar Mishra",
+      "designation": "Senior Teacher & HOD Science",
+      "subject": "Science & Physics",
+      "qualification": "M.Sc. (Physics), B.Ed.",
+      "experience_years": 12,
+      "bio": "Inspiring young minds with practical science experiments and Olympiad preparation.",
+      "photo_url": "/assets/aistudio/WhatsApp_Image_2026-10-22_at_8.49.07_PM_b4d40a9e.jpeg",
+      "phone": null,
+      "email": null,
+      "is_published": 1,
+      "display_order": 1
+    },
+    {
+      "id": 2,
+      "name": "Smt. Anita Kumari",
+      "designation": "Senior Teacher & HOD Mathematics",
+      "subject": "Mathematics",
+      "qualification": "M.Sc. (Math), B.Ed.",
+      "experience_years": 10,
+      "bio": "Specialist in Vedic mathematics tricks and CBSE board examination curriculum.",
+      "photo_url": "/assets/aistudio/WhatsApp_Image_2026-10-22_at_8.49.07_PM_b4d40a9e.jpeg",
+      "phone": null,
+      "email": null,
+      "is_published": 1,
+      "display_order": 2
+    },
+    {
+      "id": 3,
+      "name": "Sri Rajesh Soren",
+      "designation": "TGT English & Social Science",
+      "subject": "English & Social Studies",
+      "qualification": "M.A. (English), B.Ed.",
+      "experience_years": 8,
+      "bio": "Focusing on fluent English communication, grammar foundation, and historical awareness.",
+      "photo_url": "/assets/aistudio/WhatsApp_Image_2026-10-22_at_8.49.07_PM_b4d40a9e.jpeg",
+      "phone": null,
+      "email": null,
+      "is_published": 1,
+      "display_order": 3
+    },
+    {
+      "id": 4,
+      "name": "Smt. Manisha Murmu",
+      "designation": "PRT Hindi & Sanskrit",
+      "subject": "Hindi & Sanskrit",
+      "qualification": "M.A. (Hindi), B.Ed.",
+      "experience_years": 7,
+      "bio": "Instilling cultural values, Sanskrit shlokas, and literary appreciation in students.",
+      "photo_url": "/assets/aistudio/WhatsApp_Image_2026-10-22_at_8.49.07_PM_b4d40a9e.jpeg",
+      "phone": null,
+      "email": null,
+      "is_published": 1,
+      "display_order": 4
+    },
+    {
+      "id": 5,
+      "name": "Sri Bikram Kumar Singh",
+      "designation": "Computer Instructor & Lab Head",
+      "subject": "Computer Science",
+      "qualification": "MCA, B.Sc. IT",
+      "experience_years": 6,
+      "bio": "Guiding students in digital literacy, computer hardware, and programming fundamentals.",
+      "photo_url": "/assets/aistudio/WhatsApp_Image_2026-10-22_at_8.49.07_PM_b4d40a9e.jpeg",
+      "phone": null,
+      "email": null,
+      "is_published": 1,
+      "display_order": 5
+    },
+    {
+      "id": 6,
+      "name": "Sri Suresh Mahto",
+      "designation": "Physical Education & Sports Coach",
+      "subject": "Physical Education & Games",
+      "qualification": "B.P.Ed.",
+      "experience_years": 9,
+      "bio": "Leading cricket coaching, football drills, morning yogasana, and annual sports events.",
+      "photo_url": "/assets/aistudio/WhatsApp_Image_2026-10-22_at_8.49.07_PM_b4d40a9e.jpeg",
+      "phone": null,
+      "email": null,
+      "is_published": 1,
+      "display_order": 6
+    }
+  ],
+  "students": [],
+  "feeStructures": [
+    {
+      "class_name": "Nursery",
+      "monthly_tuition_fee": 500,
+      "admission_fee": 0,
+      "exam_fee": 300,
+      "computer_fee": 100
+    },
+    {
+      "class_name": "LKG",
+      "monthly_tuition_fee": 550,
+      "admission_fee": 0,
+      "exam_fee": 300,
+      "computer_fee": 100
+    },
+    {
+      "class_name": "UKG",
+      "monthly_tuition_fee": 600,
+      "admission_fee": 0,
+      "exam_fee": 300,
+      "computer_fee": 100
+    },
+    {
+      "class_name": "Class I",
+      "monthly_tuition_fee": 700,
+      "admission_fee": 0,
+      "exam_fee": 300,
+      "computer_fee": 100
+    },
+    {
+      "class_name": "Class II",
+      "monthly_tuition_fee": 750,
+      "admission_fee": 0,
+      "exam_fee": 300,
+      "computer_fee": 100
+    },
+    {
+      "class_name": "Class III",
+      "monthly_tuition_fee": 800,
+      "admission_fee": 0,
+      "exam_fee": 300,
+      "computer_fee": 100
+    },
+    {
+      "class_name": "Class IV",
+      "monthly_tuition_fee": 850,
+      "admission_fee": 0,
+      "exam_fee": 300,
+      "computer_fee": 100
+    },
+    {
+      "class_name": "Class V",
+      "monthly_tuition_fee": 900,
+      "admission_fee": 0,
+      "exam_fee": 300,
+      "computer_fee": 100
+    },
+    {
+      "class_name": "Class VI",
+      "monthly_tuition_fee": 1000,
+      "admission_fee": 0,
+      "exam_fee": 300,
+      "computer_fee": 100
+    },
+    {
+      "class_name": "Class VII",
+      "monthly_tuition_fee": 1100,
+      "admission_fee": 0,
+      "exam_fee": 300,
+      "computer_fee": 100
+    },
+    {
+      "class_name": "Class VIII",
+      "monthly_tuition_fee": 1200,
+      "admission_fee": 0,
+      "exam_fee": 300,
+      "computer_fee": 100
+    },
+    {
+      "class_name": "Class IX",
+      "monthly_tuition_fee": 1400,
+      "admission_fee": 0,
+      "exam_fee": 300,
+      "computer_fee": 100
+    },
+    {
+      "class_name": "Class X",
+      "monthly_tuition_fee": 1500,
+      "admission_fee": 0,
+      "exam_fee": 300,
+      "computer_fee": 100
+    }
+  ],
+  "feePayments": [],
+  "admissionEnquiries": [],
+  "notices": [
+    {
+      "id": 1,
+      "title": "Admissions Open for Academic Session 2026-2027 (Nursery to Class X)",
+      "description": "Registration and admission forms are now available online and at the school office. Free admission offered as per school notification. Parents are invited to visit the campus at Kathig, Jones, Semla for campus tours and interaction with teachers.",
+      "category": "Academic",
+      "published_date": "2026-10-25",
+      "expiry_date": null,
+      "attachment_url": null,
+      "image_url": null,
+      "is_urgent": 1,
+      "is_published": 1,
+      "created_at": "2026-11-01 10:57:44"
+    },
+    {
+      "id": 2,
+      "title": "National & International Science Olympiad Coaching Schedule",
+      "description": "Special weekend guidance sessions for registered Olympiad participants will commence every Saturday from 10:00 AM. Study materials and practice tests will be provided by our Science & Math faculty.",
+      "category": "Academic",
+      "published_date": "2026-10-20",
+      "expiry_date": null,
+      "attachment_url": null,
+      "image_url": null,
+      "is_urgent": 0,
+      "is_published": 1,
+      "created_at": "2026-11-01 10:57:44"
+    },
+    {
+      "id": 3,
+      "title": "Annual Sports & Cultural Meet Preparation Notice",
+      "description": "Trials for football, cricket, track events, and cultural folk dances for the upcoming Annual Function will be conducted next week during sports periods under the supervision of Coach Suresh Mahto.",
+      "category": "Event",
+      "published_date": "2026-10-15",
+      "expiry_date": null,
+      "attachment_url": null,
+      "image_url": null,
+      "is_urgent": 0,
+      "is_published": 1,
+      "created_at": "2026-11-01 10:57:44"
+    },
+    {
+      "id": 4,
+      "title": "School Bus Route Updates for Kathig & Jones Areas",
+      "description": "New morning pickup and afternoon drop schedules for the school bus have been updated. All parents utilizing transport facilities are requested to verify timings with the transport coordinator.",
+      "category": "General",
+      "published_date": "2026-10-10",
+      "expiry_date": null,
+      "attachment_url": null,
+      "image_url": null,
+      "is_urgent": 0,
+      "is_published": 1,
+      "created_at": "2026-11-01 10:57:44"
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "title": "School Building & Artistic Heritage Mural Wall",
+      "category": "Campus",
+      "image_url": "/assets/aistudio/WhatsApp_Image_2026-10-24_at_4.39.34_AM_dbbdbe61.jpeg",
+      "is_published": 1,
+      "display_order": 1,
+      "created_at": "2026-11-01 10:57:44"
+    },
+    {
+      "id": 2,
+      "title": "Official Emblem of Maa Saraswati on Lotus",
+      "category": "Events",
+      "image_url": "/assets/aistudio/WhatsApp_Image_2026-10-22_at_8.49.07_PM_b4d40a9e.jpeg",
+      "is_published": 1,
+      "display_order": 2,
+      "created_at": "2026-11-01 10:57:44"
+    },
+    {
+      "id": 3,
+      "title": "Spacious School Entrance and Nature Surroundings",
+      "category": "Campus",
+      "image_url": "/assets/aistudio/WhatsApp_Image_2026-10-24_at_4.39.34_AM_dbbdbe61.jpeg",
+      "is_published": 1,
+      "display_order": 3,
+      "created_at": "2026-11-01 10:57:44"
+    },
+    {
+      "id": 4,
+      "title": "Saraswati Puja & Cultural Programme Celebration",
+      "category": "Cultural",
+      "image_url": "/assets/aistudio/WhatsApp_Image_2026-10-22_at_8.49.07_PM_b4d40a9e.jpeg",
+      "is_published": 1,
+      "display_order": 4,
+      "created_at": "2026-11-01 10:57:44"
+    }
+  ],
+  "contactEnquiries": [],
+  "auditLogs": [
+    {
+      "id": 68,
+      "action": "MANUAL_LOCAL_BACKUP",
+      "details": "Created local SQLite backup school_backup_manual_2026-11-01T14-52-59.db (112 KB) in local folder /app/applet/D:/Saraswati_School_Data/Backups",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:52:59"
+    },
+    {
+      "id": 67,
+      "action": "ZERO_DATABASE_RECORDS",
+      "details": "Reset student database: deleted 1 demo students and 1 fee payments to start clean at zero.",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:52:59"
+    },
+    {
+      "id": 66,
+      "action": "DELETE_STUDENT",
+      "details": "Deleted student ID: 8",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:52:59"
+    },
+    {
+      "id": 65,
+      "action": "FEE_PAYMENT",
+      "details": "Collected ₹1500 for SVM-2026-002 (April) (₹800 Advance) - Receipt: SVM-REC-2026-0002",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:52:59"
+    },
+    {
+      "id": 64,
+      "action": "ADD_STUDENT",
+      "details": "Created student SVM-2026-002 (Pooja Advance Test)",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:52:59"
+    },
+    {
+      "id": 63,
+      "action": "FEE_PAYMENT",
+      "details": "Collected ₹1800 for SVM-2026-001 (April, May) - Receipt: SVM-REC-2026-0001",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:52:59"
+    },
+    {
+      "id": 62,
+      "action": "ADD_STUDENT",
+      "details": "Created student SVM-2026-001 (Aarav Test Sharma)",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:52:59"
+    },
+    {
+      "id": 61,
+      "action": "UPDATE_ADMISSION_ENQUIRY",
+      "details": "Updated enquiry #2 status to Approved",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:52:59"
+    },
+    {
+      "id": 60,
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user admin logged in",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:52:59"
+    },
+    {
+      "id": 59,
+      "action": "NEW_ADMISSION_ENQUIRY",
+      "details": "Reference SVM-ADM-2026-0002 received for Rahul Verma (Class I)",
+      "performed_by": "Public Visitor",
+      "created_at": "2026-11-01 14:52:59"
+    },
+    {
+      "id": 58,
+      "action": "AUTOMATIC_LOCAL_BACKUP",
+      "details": "Created local SQLite backup school_backup_auto_2026-11-01T14-52-54.db (112 KB) in local folder /app/applet/D:/Saraswati_School_Data/Backups",
+      "performed_by": "system_startup",
+      "created_at": "2026-11-01 14:52:54"
+    },
+    {
+      "id": 57,
+      "action": "RESEED_DEMO_STUDENTS",
+      "details": "Restored 6 demonstration students and initial payment.",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:41:01"
+    },
+    {
+      "id": 56,
+      "action": "RESTORE_LOCAL_BACKUP",
+      "details": "Database successfully restored from local backup file: school_backup_manual_2026-11-01T14-41-01.db",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:41:01"
+    },
+    {
+      "id": 55,
+      "action": "UPDATE_AUTO_BACKUP_CONFIG",
+      "details": "Automatic local backup ENABLED with interval of 60 minutes (stored in local folder only)",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:41:01"
+    },
+    {
+      "id": 54,
+      "action": "MANUAL_LOCAL_BACKUP",
+      "details": "Created local SQLite backup school_backup_manual_2026-11-01T14-41-01.db (112 KB) in local folder /app/applet/data/backups",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:41:01"
+    },
+    {
+      "id": 53,
+      "action": "ZERO_DATABASE_RECORDS",
+      "details": "Reset student database: deleted 1 demo students and 1 fee payments to start clean at zero.",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:41:01"
+    },
+    {
+      "id": 52,
+      "action": "DELETE_STUDENT",
+      "details": "Deleted student ID: 8",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:41:01"
+    },
+    {
+      "id": 51,
+      "action": "FEE_PAYMENT",
+      "details": "Collected ₹1500 for SVM-2026-002 (April) (₹800 Advance) - Receipt: SVM-REC-2026-0002",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:41:01"
+    },
+    {
+      "id": 50,
+      "action": "ADD_STUDENT",
+      "details": "Created student SVM-2026-002 (Pooja Advance Test)",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:41:01"
+    },
+    {
+      "id": 49,
+      "action": "FEE_PAYMENT",
+      "details": "Collected ₹1800 for SVM-2026-001 (April, May) - Receipt: SVM-REC-2026-0001",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:41:01"
+    },
+    {
+      "id": 48,
+      "action": "ADD_STUDENT",
+      "details": "Created student SVM-2026-001 (Aarav Test Sharma)",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:41:01"
+    },
+    {
+      "id": 47,
+      "action": "UPDATE_ADMISSION_ENQUIRY",
+      "details": "Updated enquiry #1 status to Approved",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:41:01"
+    },
+    {
+      "id": 46,
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user admin logged in",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:41:01"
+    },
+    {
+      "id": 45,
+      "action": "NEW_ADMISSION_ENQUIRY",
+      "details": "Reference SVM-ADM-2026-0001 received for Rahul Verma (Class I)",
+      "performed_by": "Public Visitor",
+      "created_at": "2026-11-01 14:41:01"
+    },
+    {
+      "id": 44,
+      "action": "RESEED_DEMO_STUDENTS",
+      "details": "Restored 6 demonstration students and initial payment.",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:36"
+    },
+    {
+      "id": 43,
+      "action": "RESTORE_LOCAL_BACKUP",
+      "details": "Database successfully restored from local backup file: school_backup_manual_2026-11-01T14-40-36.db",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:36"
+    },
+    {
+      "id": 42,
+      "action": "UPDATE_AUTO_BACKUP_CONFIG",
+      "details": "Automatic local backup ENABLED with interval of 60 minutes (stored in local folder only)",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:36"
+    },
+    {
+      "id": 41,
+      "action": "MANUAL_LOCAL_BACKUP",
+      "details": "Created local SQLite backup school_backup_manual_2026-11-01T14-40-36.db (112 KB) in local folder /app/applet/data/backups",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:36"
+    },
+    {
+      "id": 40,
+      "action": "ZERO_DATABASE_RECORDS",
+      "details": "Reset student database: deleted 8 demo students and 3 fee payments to start clean at zero.",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:36"
+    },
+    {
+      "id": 39,
+      "action": "FEE_PAYMENT",
+      "details": "Collected ₹1500 for SVM-2026-008 (April) (₹800 Advance) - Receipt: SVM-REC-2026-0003",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:36"
+    },
+    {
+      "id": 38,
+      "action": "ADD_STUDENT",
+      "details": "Created student SVM-2026-008 (Pooja Advance Test)",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:36"
+    },
+    {
+      "id": 37,
+      "action": "FEE_PAYMENT",
+      "details": "Collected ₹1800 for SVM-2026-007 (April, May) - Receipt: SVM-REC-2026-0002",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:36"
+    },
+    {
+      "id": 36,
+      "action": "ADD_STUDENT",
+      "details": "Created student SVM-2026-007 (Aarav Test Sharma)",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:36"
+    },
+    {
+      "id": 35,
+      "action": "UPDATE_ADMISSION_ENQUIRY",
+      "details": "Updated enquiry #1 status to Approved",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:36"
+    },
+    {
+      "id": 34,
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user admin logged in",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:36"
+    },
+    {
+      "id": 33,
+      "action": "NEW_ADMISSION_ENQUIRY",
+      "details": "Reference SVM-ADM-2026-0001 received for Rahul Verma (Class I)",
+      "performed_by": "Public Visitor",
+      "created_at": "2026-11-01 14:40:36"
+    },
+    {
+      "id": 32,
+      "action": "RESEED_DEMO_STUDENTS",
+      "details": "Restored 6 demonstration students and initial payment.",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:00"
+    },
+    {
+      "id": 31,
+      "action": "RESTORE_LOCAL_BACKUP",
+      "details": "Database successfully restored from local backup file: school_backup_manual_2026-11-01T14-40-00.db",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:00"
+    },
+    {
+      "id": 30,
+      "action": "UPDATE_AUTO_BACKUP_CONFIG",
+      "details": "Automatic local backup ENABLED with interval of 60 minutes (stored in local folder only)",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:00"
+    },
+    {
+      "id": 29,
+      "action": "MANUAL_LOCAL_BACKUP",
+      "details": "Created local SQLite backup school_backup_manual_2026-11-01T14-40-00.db (104 KB) in local folder /app/applet/data/backups",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:00"
+    },
+    {
+      "id": 28,
+      "action": "ZERO_DATABASE_RECORDS",
+      "details": "Reset student database: deleted 2 demo students and 2 fee payments to start clean at zero.",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:00"
+    },
+    {
+      "id": 27,
+      "action": "FEE_PAYMENT",
+      "details": "Collected ₹1500 for SVM-2026-002 (April) (₹800 Advance) - Receipt: SVM-REC-2026-0002",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:00"
+    },
+    {
+      "id": 26,
+      "action": "ADD_STUDENT",
+      "details": "Created student SVM-2026-002 (Pooja Advance Test)",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:00"
+    },
+    {
+      "id": 25,
+      "action": "FEE_PAYMENT",
+      "details": "Collected ₹1800 for SVM-2026-001 (April, May) - Receipt: SVM-REC-2026-0001",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:00"
+    },
+    {
+      "id": 24,
+      "action": "ADD_STUDENT",
+      "details": "Created student SVM-2026-001 (Aarav Test Sharma)",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:00"
+    },
+    {
+      "id": 23,
+      "action": "UPDATE_ADMISSION_ENQUIRY",
+      "details": "Updated enquiry #2 status to Approved",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:00"
+    },
+    {
+      "id": 22,
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user admin logged in",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 14:40:00"
+    },
+    {
+      "id": 21,
+      "action": "NEW_ADMISSION_ENQUIRY",
+      "details": "Reference SVM-ADM-2026-0002 received for Rahul Verma (Class I)",
+      "performed_by": "Public Visitor",
+      "created_at": "2026-11-01 14:40:00"
+    },
+    {
+      "id": 20,
+      "action": "AUTOMATIC_LOCAL_BACKUP",
+      "details": "Created local SQLite backup school_backup_auto_2026-11-01T14-39-57.db (104 KB) in local folder /app/applet/data/backups",
+      "performed_by": "system_startup",
+      "created_at": "2026-11-01 14:39:57"
+    },
+    {
+      "id": 19,
+      "action": "ZERO_DATABASE_RECORDS",
+      "details": "Reset student database: deleted 2 demo students and 2 fee payments to start clean at zero.",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:35:29"
+    },
+    {
+      "id": 18,
+      "action": "FEE_PAYMENT",
+      "details": "Collected ₹1500 for SVM-2026-002 (April) (₹800 Advance) - Receipt: SVM-REC-2026-0002",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:35:29"
+    },
+    {
+      "id": 17,
+      "action": "ADD_STUDENT",
+      "details": "Created student SVM-2026-002 (Pooja Advance Test)",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:35:29"
+    },
+    {
+      "id": 16,
+      "action": "FEE_PAYMENT",
+      "details": "Collected ₹1800 for SVM-2026-001 (April, May) - Receipt: SVM-REC-2026-0001",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:35:29"
+    },
+    {
+      "id": 15,
+      "action": "ADD_STUDENT",
+      "details": "Created student SVM-2026-001 (Aarav Test Sharma)",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:35:29"
+    },
+    {
+      "id": 14,
+      "action": "UPDATE_ADMISSION_ENQUIRY",
+      "details": "Updated enquiry #1 status to Approved",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:35:29"
+    },
+    {
+      "id": 13,
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user admin logged in",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:35:28"
+    },
+    {
+      "id": 12,
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user admin logged in",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:35:05"
+    },
+    {
+      "id": 11,
+      "action": "ZERO_DATABASE_RECORDS",
+      "details": "Reset student database: deleted 6 demo students and 2 fee payments to start clean at zero.",
+      "performed_by": "User Request: Zero All Records",
+      "created_at": "2026-11-01 12:32:27"
+    },
+    {
+      "id": 10,
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user admin logged in",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:28:49"
+    },
+    {
+      "id": 9,
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user admin logged in",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:23:07"
+    },
+    {
+      "id": 8,
+      "action": "UPDATE_PROFILE",
+      "details": "School profile details updated",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:17:14"
+    },
+    {
+      "id": 7,
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user admin logged in",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:15:50"
+    },
+    {
+      "id": 6,
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user admin logged in",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:14:31"
+    },
+    {
+      "id": 5,
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user admin logged in",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:10:37"
+    },
+    {
+      "id": 4,
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user admin logged in",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:10:11"
+    },
+    {
+      "id": 3,
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user admin logged in",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 12:03:14"
+    },
+    {
+      "id": 2,
+      "action": "FEE_PAYMENT",
+      "details": "Collected ₹7200 for SVM-2026-001 (April, May, June, July, August, September, October, November) - Receipt: SVM-REC-2026-0002",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 11:29:49"
+    },
+    {
+      "id": 1,
+      "action": "ADMIN_LOGIN",
+      "details": "Admin user admin logged in",
+      "performed_by": "admin",
+      "created_at": "2026-11-01 11:28:41"
+    }
+  ]
+}

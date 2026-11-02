@@ -1,0 +1,10 @@
+{
+  "filename": "school_backup_manual_2026-11-01T14-40-36.db",
+  "createdAt": "2026-11-01T14:40:36.705Z",
+  "sizeBytes": 114688,
+  "sizeFormatted": "112 KB",
+  "reason": "manual",
+  "triggeredBy": "admin",
+  "storage": "local_folder_only",
+  "localFolderPath": "/app/applet/data/backups"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Saraswati Vidya Mandir Public School, Semla",
+  "description": "Official website and comprehensive school management system for Saraswati Vidya Mandir Public School, Semla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

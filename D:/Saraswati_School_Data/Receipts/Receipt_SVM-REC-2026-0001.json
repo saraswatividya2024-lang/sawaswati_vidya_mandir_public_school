@@ -1,0 +1,23 @@
+{
+  "receiptNumber": "SVM-REC-2026-0001",
+  "studentDbId": 7,
+  "studentId": "SVM-2026-001",
+  "studentName": "Aarav Test Sharma",
+  "classVal": "Class V",
+  "section": "A",
+  "academicYear": "2026-27",
+  "monthsPaid": [
+    "April",
+    "May"
+  ],
+  "totalFee": 1800,
+  "discount": 0,
+  "amountPaid": 1800,
+  "remainingBalance": 0,
+  "paymentMethod": "Cash",
+  "paymentDate": "2026-11-01",
+  "notes": "Paid on time",
+  "collectedBy": "admin",
+  "savedToFolder": "/app/applet/D:/Saraswati_School_Data/Receipts",
+  "createdAt": "2026-11-01T14:52:59.256Z"
+}

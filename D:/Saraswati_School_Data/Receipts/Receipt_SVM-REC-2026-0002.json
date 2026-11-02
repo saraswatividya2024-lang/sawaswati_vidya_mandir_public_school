@@ -1,0 +1,22 @@
+{
+  "receiptNumber": "SVM-REC-2026-0002",
+  "studentDbId": 8,
+  "studentId": "SVM-2026-002",
+  "studentName": "Pooja Advance Test",
+  "classVal": "Class I",
+  "section": "A",
+  "academicYear": "2026-27",
+  "monthsPaid": [
+    "April"
+  ],
+  "totalFee": 700,
+  "discount": 0,
+  "amountPaid": 1500,
+  "remainingBalance": 0,
+  "paymentMethod": "UPI",
+  "paymentDate": "2026-11-01",
+  "notes": "Excess paid as advance for May",
+  "collectedBy": "admin",
+  "savedToFolder": "/app/applet/D:/Saraswati_School_Data/Receipts",
+  "createdAt": "2026-11-01T14:52:59.285Z"
+}
