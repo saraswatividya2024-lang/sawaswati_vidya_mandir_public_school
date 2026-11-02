@@ -183,6 +183,18 @@ export default {
     }
 
     try {
+      // Guard: Ensure D1 database binding 'DB' is available for all /api endpoints
+      if (url.pathname.startsWith('/api/') && !env.DB) {
+        return jsonResponse(
+          {
+            error:
+              "Cloudflare D1 Database binding 'DB' is not configured yet. In your Cloudflare Dashboard, go to Workers & Pages -> sawaswati-vidya-mandir-public-school -> Settings -> Variables and Bindings, and bind your D1 database with variable name 'DB'.",
+            code: 'D1_NOT_BOUND'
+          },
+          503
+        );
+      }
+
       // ----------------------------------------------------------------------
       // PUBLIC ROUTES
       // ----------------------------------------------------------------------

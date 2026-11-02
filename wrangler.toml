@@ -1,4 +1,4 @@
-name = "svmps-semla-portal"
+name = "sawaswati-vidya-mandir-public-school"
 main = "worker.ts"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
@@ -13,7 +13,13 @@ html_handling = "auto-trailing-slash"
 not_found_handling = "single-page-application"
 run_worker_first = true
 
-[[d1_databases]]
-binding = "DB"
-database_name = "saraswati_school_d1"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+# Cloudflare D1 Database Binding:
+# Option 1 (Cloudflare Dashboard - Recommended):
+#   In Cloudflare Workers Dashboard -> sawaswati-vidya-mandir-public-school -> Settings -> Variables and Bindings
+#   Add D1 Database binding with Variable Name: "DB", selecting your D1 database.
+# Option 2 (Via config file):
+#   Uncomment below and replace with your actual D1 UUID:
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "saraswati_school_d1"
+# database_id = "<YOUR_D1_DATABASE_UUID>"
