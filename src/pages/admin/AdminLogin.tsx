@@ -23,10 +23,39 @@ export const AdminLogin: React.FC<AdminLoginProps> = ({ profile, onLoginSuccess,
     try {
       const res = await fetch('/api/admin/login', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+        },
         body: JSON.stringify({ username: username.trim(), password })
       });
-      const data = await res.json();
+
+      let data: any = null;
+      const contentType = res.headers.get('content-type') || '';
+
+      if (contentType.includes('application/json')) {
+        try {
+          data = await res.json();
+        } catch {
+          data = null;
+        }
+      }
+
+      if (!data) {
+        // Handle non-JSON server responses (e.g. 502/500/404 HTML pages)
+        const rawText = await res.text().catch(() => '');
+        if (!res.ok) {
+          throw new Error(
+            res.status === 401
+              ? 'Invalid administrator username or password.'
+              : res.status === 429
+              ? 'Too many failed login attempts. Please wait a few minutes before trying again.'
+              : `Server error (${res.status}). Please check database connection or Cloudflare D1 binding.`
+          );
+        }
+        throw new Error('Received unexpected non-JSON response from server.');
+      }
+
       if (!res.ok) {
         throw new Error(data.error || 'Login failed. Check credentials.');
       }
