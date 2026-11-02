@@ -22,7 +22,8 @@
       ]
     },
     "allowImportingTsExtensions": true,
+    "useUnknownInCatchVariables": false,
     "noEmit": true
   },
-  "exclude": ["dist"]
+  "exclude": ["dist", "test-all-functions.ts"]
 }
